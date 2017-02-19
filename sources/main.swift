@@ -2,8 +2,8 @@ import Foundation
 import Glibc
 
 let player = ["rock", "paper", "scissors", "lizard", "spock"]
-
-print("Hello World!")
+ 
+print("Hello Seatt!")
 print("Let's play rock, paper, scissors, lizard, spock!")
 
 srandom(UInt32(NSDate().timeIntervalSince1970))
